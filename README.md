@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **css is fun.**
 
+<a href="https://app.daily.dev/n0t_sure_21"><img src="https://api.daily.dev/devcards/34335350618445c79317f9759495cca2.png?r=23o" width="400" alt="Rushikesh Patil's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@kshm1r21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kshm1r21" height="30" width="40" /></a>
