@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **css is fun.**
 
-<a href="https://app.daily.dev/n0t_sure_21"><img src="https://api.daily.dev/devcards/34335350618445c79317f9759495cca2.png?r=23o" width="400" alt="Rushikesh Patil's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
